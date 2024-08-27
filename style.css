@@ -8,9 +8,16 @@
   ::selection{
     color:#ffff;
     background-color: black;
-
+  }
   }  
-}
+  @font-face {
+    font-family: Helvetica;
+    src: url(./HelveticaNowText-Regular.woff2);
+  }
+  @font-face {
+    font-family: futura;
+    src: url(./Futura-Bold.woff2)
+  }
 
 html,body{
     height: 100%;
